@@ -18,6 +18,10 @@ When using the bundled installer's script, pass both paths in a single
 siblings. If either destination already exists, stop and ask before replacement;
 do not rename only one folder or overwrite a different installation.
 
+A private repository requires an authorized GitHub account and valid local
+authentication. Use existing local credentials; never embed a repository token
+in an installation prompt or shared file.
+
 Use a temporary download directory. Install only the two skill directories,
 not a repository's historical or generated project files.
 
