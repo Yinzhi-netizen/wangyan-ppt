@@ -1,0 +1,8 @@
+interface:
+  display_name: "Wangyan PPT"
+  short_description: "高端、克制、可编辑的 Wangyan 风格演示文稿"
+  default_prompt: "Use $wangyan-ppt to create a polished presentation with a Wangyan design preset and hfsyapi image relay."
+  brand_color: "#173E38"
+
+policy:
+  allow_implicit_invocation: true
